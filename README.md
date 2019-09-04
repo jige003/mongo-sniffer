@@ -14,6 +14,7 @@
 * 兼容版本4.2 废弃协议OP_COMMAND和OP_COMMANDREPLY解析
 
 ### Usage
+> 二进制文件编译于centos7 
 ```
 Copyright by jige003
 
@@ -21,7 +22,6 @@ Usage:
     mongo-sniffer [-h] -i interface -p port
 
 ```
-> 二进制文件编译于centos7 
 
 ### 测试
 运行python test_mongo.py, 解包如下
