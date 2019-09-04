@@ -2,6 +2,7 @@
 > mongo sniffer network traffic 
 
 ### 功能
+* 支持 100% 协议解析
 * 支持 OP_REPLY 协议解析
 * 支持 OP_UPDATE 协议解析
 * 支持 OP_INSERT 协议解析
