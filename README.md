@@ -12,7 +12,7 @@
 * 支持 OP_DELETE 协议解析
 * 支持 OP_KILL_CURSORSOP 协议解析
 * 支持 OP_MSG 协议解析
-* 兼容版本4.2 废弃协议OP_COMMAND和OP_COMMANDREPLY解析
+* 兼容版本4.2下 废弃协议OP_COMMAND和OP_COMMANDREPLY解析
 
 ### Usage
 > 二进制文件编译于centos7 
